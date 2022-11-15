@@ -1,4 +1,5 @@
-public class Array{
+public class Array
+{
 	public static void main(String args[])
 	{
 		int []arr = new int[] {1,2,3,3,5,1,2,5};
